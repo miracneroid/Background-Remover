@@ -23,5 +23,5 @@ def remove_background(image_path):
 
 if __name__ == "__main__":
 
-    image_path = "/Users/miracneroid/Documents/App Development/Python/Project/Background-Remover/ml/img1.jpeg"
+    image_path = "img-path"
     remove_background(image_path)
