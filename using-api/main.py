@@ -27,6 +27,6 @@ def background_remover(api_key, image_path):
         print(f"Error: {response.status_code} - {response.text}")
 
 api_key = passkey.api_key
-image_path = "/Users/miracneroid/Documents/App Development/Python/Project/Background-Remover/using-api/img1.jpeg"
+image_path = "img-path"
 
 background_remover(api_key, image_path)
