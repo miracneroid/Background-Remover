@@ -7,6 +7,7 @@
 
 ## Grabcut Algorithm 
 GrabCut is an image segmentation method based on graph cuts. Starting with a user-specified bounding box around the object to be segmented, the algorithm estimates the color distribution of the target object and that of the background using a Gaussian mixture model. [Read more]([https://forms.gle/9dBLq5n5dLB5DPxv9](https://en.wikipedia.org/wiki/GrabCut#:~:text=GrabCut%20is%20an%20image%20segmentation,using%20a%20Gaussian%20mixture%20model.)).
+[Background Image](https://drive.google.com/file/d/1vIPIZeGQcbvfwdQ5M-7yjrJw0emEPLuS/view?usp=sharing)
 
 ## Achievement 📌
 - The code is capable of Accurate and efficient background removal.
